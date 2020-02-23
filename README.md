@@ -23,6 +23,8 @@ DeepSEA is a language developed at Yale for writing verified system software. Yo
 
 ![img](img/deepsea.png)
 
+("Edsger" is the name of the compiler.)
+
 There is an ongoing collaboration between Yale, Columbia, and CertiK to extend the system to support the development of smart contracts. This includes an alternative backend that compiles the MiniC IR to EVM bytecode.
 
 ![img](img/evm.png)
